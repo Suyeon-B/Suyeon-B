@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeon-B&count_bg=%23FF8BA7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Suyeon-B)
 
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)
+
 <!-- <div align="center">
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Blog&logoColor=white"/>
 </div>
