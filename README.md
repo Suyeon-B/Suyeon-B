@@ -4,7 +4,11 @@
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)
 
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Blog&logoColor=white"/>
-</div>
- -->
+
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/tndus4243)
+<!-- 
+
+<div align="center">
+  
+</div> -->
+
