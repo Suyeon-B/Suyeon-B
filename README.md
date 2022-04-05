@@ -6,9 +6,11 @@
 
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Blog&logoColor=white)](https://blog.naver.com/tndus4243)
-<!-- 
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=000000&link=https://www.instagram.com/nosuyeonnolife/)](https://www.instagram.com/nosuyeonnolife/)
+
+
+<!-- 
 <div align="center">
-  
 </div> -->
 
