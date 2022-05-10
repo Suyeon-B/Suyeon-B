@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SuyeonBak&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷 🇭🇺 🇺🇸</p>
+<p align="center">
+<a href="https://github.com/Suyeon-B"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeon-B&count_bg=%23FF8BA7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"></p>
 <h3 align="center">Hi there!👋 I'm Suyeon Bak who likes to communicate 😄</h3>
 
 <br>
@@ -34,7 +36,6 @@
 
 <h3 align="center"> 💡 Baekjoon 💡 </h3>
 <p align="center">
-  <a href="https://github.com/Suyeon-B"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeon-B&count_bg=%23FF8BA7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 <!--   ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus4243)(https://solved.ac/tndus4243)  -->
 <!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tndus4243&theme=dark) -->
 
