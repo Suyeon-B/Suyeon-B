@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFD3E3&height=150&section=header&text=SuyeonBak&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFD3E3&height=150&section=header&text=SuyeonBak&fontSize=70&animation=twinkling&fontColor=FFFFFF)
 
 
 <p align="center">
