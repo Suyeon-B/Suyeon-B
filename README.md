@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF8BA7&height=150&section=header&text=SuyeonBak&fontSize=70&animation=twinkling&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=Hi there!👋&fontSize=70&fontColor=FFFFFF)
 
 
 <p align="center">
   <a href="https://github.com/Suyeon-B"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeon-B&count_bg=%23FF8BA7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </p>
   
-<h3 align="center">Hi there!👋 I'm Suyeon Bak who likes to communicate. 😄</h3>
+<h3 align="center">I'm Suyeon Bak who likes to communicate. 😄</h3>
 
 <br>
 
