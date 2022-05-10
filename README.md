@@ -3,12 +3,12 @@
 <p align="center">🇰🇷 🇭🇺 🇺🇸</p>
 <p align="center">
 <a href="https://github.com/Suyeon-B"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuyeon-B&count_bg=%23FF8BA7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"></p>
-<h3 align="center">Hi there!👋 I'm Suyeon Bak who likes to communicate 😄</h3>
+<h3 align="center">Hi there!👋 I'm Suyeon Bak who likes to communicate. 😄</h3>
 
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -17,22 +17,23 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-#47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
 
-<br>
-
 
 <h3 align="center"> 💌  SNS, Blog 💌 </h3>
-<!-- <div align="center" style="text-align:center"> -->
-[[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)(https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)]
-      [[![Naver Badge](https://img.shields.io/badge/-Blog-03C75A?logo=Naver&logoColor=white&link=https://blog.naver.com/tndus4243)(https://blog.naver.com/tndus4243)]
-      [[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/nosuyeonnolife/)(https://www.instagram.com/nosuyeonnolife/)]
+<div align="center" style="text-align:center">
+<a href="https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+
+<a href="https://blog.naver.com/tndus4243" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/nosuyeonnolife/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 </div>
-<!-- <br> -->
+<br>
 
 <h3 align="center"> 💡 Baekjoon 💡 </h3>
 <p align="center">
