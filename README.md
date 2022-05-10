@@ -26,9 +26,9 @@
 
 <h3 align="center"> 💌  SNS, Blog 💌 </h3>
 <!-- <div align="center" style="text-align:center"> -->
-  [[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)
-      [[![Naver Badge](https://img.shields.io/badge/-Blog-03C75A?logo=Naver&logoColor=white&link=https://blog.naver.com/tndus4243)](https://blog.naver.com/tndus4243)
-      [[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/nosuyeonnolife/)](https://www.instagram.com/nosuyeonnolife/)
+[[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)(https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)]
+      [[![Naver Badge](https://img.shields.io/badge/-Blog-03C75A?logo=Naver&logoColor=white&link=https://blog.naver.com/tndus4243)(https://blog.naver.com/tndus4243)]
+      [[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/nosuyeonnolife/)(https://www.instagram.com/nosuyeonnolife/)]
 </div>
 <!-- <br> -->
 
