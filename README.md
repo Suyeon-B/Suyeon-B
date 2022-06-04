@@ -37,7 +37,7 @@
 <h3 align="center"> 💌  SNS, Blog 💌 </h3>
 
 <div align="center" style="text-align:center">
-  <a href="https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://blog.naver.com/tndus4243" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://www.instagram.com/nosuyeonnolife/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://flicker-alyssum-bb5.notion.site/Just-do-it-9e97fdfb789f4337b7e1b343e85e3ba8" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://blog.naver.com/tndus4243" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://www.instagram.com/nosuyeonnolife/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </div>
 <br>
